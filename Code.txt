@@ -1,5 +1,5 @@
-react-native init RNVideoVoiceCall
-cd RNVideoVoiceCall
+react-native init SecureChat
+cd SecureChat
 npm install
 
 Package:

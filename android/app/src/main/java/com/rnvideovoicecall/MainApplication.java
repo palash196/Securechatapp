@@ -1,4 +1,4 @@
-package com.rnvideovoicecall;
+package com.securechat;
 
 import android.app.Application;
 
