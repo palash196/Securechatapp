@@ -1,0 +1,9 @@
+{
+  "name": "SecureChatApp",
+  "displayName": "SecureChatApp",
+  "extra": {
+    "eas": {
+      "projectId": "000f7a2f-4588-41fe-bc96-096a99ef0808"
+    }
+  }
+}
